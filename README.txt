@@ -9,4 +9,4 @@ Actually i uploaded the second version PvC.
 The index file contain the main code where the value for player X or O is saved inside 
 the array.
 The bot player every time it's his turn will check all the patterns inside the others external funcions, 
-so the bot will chose what is the best avable slot to use.
+so the bot will chose what is the best avable slot to use and action to take.
