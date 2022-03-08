@@ -1,6 +1,6 @@
 Hello
 
-This is a small project i made after 2 months of experience learning Java.
+This is a small project i made after 2 months of experience learning JavaScript.
 It's a TikTakToe classic game 3x3 grid, i made 3 versions:
 1-Computer vs Computer
 2-Player vs Computer
